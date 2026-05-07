@@ -1,1 +1,1 @@
-# jobmang
+# job-managment
